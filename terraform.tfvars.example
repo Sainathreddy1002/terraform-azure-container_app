@@ -1,0 +1,7 @@
+prefix       = "fitapp"
+environment  = "dev"
+location     = "eastus"
+tags = { project = "fitapp", owner = "team-hn", env = "dev" }
+
+container_image_name = "fitapp-api"
+container_image_tag  = "latest"
